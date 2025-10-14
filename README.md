@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**DavidMh11/DavidMh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm David
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/Github-852292?logo=github&link=https://github.com/DavidMh11)](https://github.com/DavidMh11)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&link=mailto:david.mh.556@gmail.comthub.com/DavidMh11)](mailto:david.mh.556@gmail.com)
+
+[![Github Badge](https://img.shields.io/badge/Whatsapp-4aeb67?logo=whatsapp&logoColor=FFF&link=https://wa.me/+525615235223)](https://wa.me/+525615235223)
+
+* I am a Software Engineer with more than 3 years of experience. I have participated in various projects throughout its life cycle, collaborating as a team to analyze, design and develop quality software, using the necessary tools and technologies to guarantee integrity and scalability.
+ 
+* Techstack: 
+    * Frontend: [`.ts`, `.react`, `.html`, `.css`]
+    * Backend: [`.ts`, `.nodejs`, `.express`, `.mongodb`, `.jwt`]
+
+* You can also visit my [Linkedin Page](https://www.linkedin.com/in/david-monhz).
