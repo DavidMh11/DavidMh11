@@ -1,7 +1,7 @@
 
 ## Hi, I'm David
 
-[![Github Badge](https://img.shields.io/badge/Github-852292?logo=github&link=https://github.com/DavidMh11)](https://github.com/DavidMh11)
+[![Github Badge](https://img.shields.io/badge/GitHub-852292?logo=github&link=https://github.com/DavidMh11)](https://github.com/DavidMh11)
 
 [![Github Badge](https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&link=mailto:david.mh.556@gmail.comthub.com/DavidMh11)](mailto:david.mh.556@gmail.com)
 
@@ -14,3 +14,9 @@
     * Backend: [`.ts`, `.nodejs`, `.express`, `.mongodb`, `.jwt`]
 
 * You can also visit my [Linkedin Page](https://www.linkedin.com/in/david-monhz).
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidMh11&theme=dark&border_radius=10&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
