@@ -17,6 +17,4 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidMh11&theme=dark&border_radius=10&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
