@@ -12,8 +12,6 @@
 
 I am a Software Engineer with more than 3 years of experience. I have participated in various projects throughout its life cycle, collaborating as a team to analyze, design and develop quality software, using the necessary tools and technologies to guarantee integrity and scalability.
 
-
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on web apps and web sites using Next.JS
 
 🧠 I'm currently learning Python and object  recognition
